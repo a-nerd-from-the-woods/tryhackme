@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "jr-pentester/pentesting-fundamentals.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 100
   },
   "right": {
     "id": "1891d5bc33019667",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "jr-pentester/pentesting-fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,6 @@
   },
   "active": "960165d61a8cb76d",
   "lastOpenFiles": [
-    "Untitled.md"
+    "jr-pentester/pentesting-fundamentals.md"
   ]
 }
